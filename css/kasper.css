@@ -920,6 +920,14 @@ header .container nav .form i{
     border-left: none;
     border-width: 1px;
 }
+@media (max-width:767px;){
+    .sub .form{
+        width:400px;
+}
+     .sub form #submit{
+         width:100px;
+}
+}
 .sub .container p{
     color: white;
     line-height: 2;
